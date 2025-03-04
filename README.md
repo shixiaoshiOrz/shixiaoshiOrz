@@ -48,5 +48,3 @@
 * 开源项目：[vue-axios-mock](https://www.npmjs.com/package/vue-axios-mock)、[dist-info](https://www.npmjs.com/package/dist-info)、[vue-router-devTool](https://greasyfork.org/zh-CN/scripts/471574-vue-router-tool) 、page-hook 
 
 * 免费专栏：《[鸿蒙开发实践-基础入门](https://juejin.cn/column/7392535991972266035)》、《[前端大屏动画方案集合](https://juejin.cn/column/7346221825666285620)》、《vite从入门到实践》、《threejs入门教程》、《[前端学java](https://juejin.cn/column/7309158055018545178)》
-
-<img align="right" height="150" src="https://p3-passport.byteacctimg.com/img/user-avatar/bd431f07728d36167f9c857480f0420b~90x90.awebp"  />
